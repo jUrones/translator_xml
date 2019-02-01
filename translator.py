@@ -1,4 +1,8 @@
 
+#-*-coding: UTF-8 -*-
+# XML translator version 0.1
+# AUTHOR : jUrones
+# CONTRIBUTORS: Itu26, SamuelCifuentes, enolgargon
 from __future__ import print_function
 
 from googletrans import Translator
